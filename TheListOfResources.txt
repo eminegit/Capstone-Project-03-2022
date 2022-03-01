@@ -1,0 +1,10 @@
+The List of Resources:
+
+Ubuntu 20.04 VM
+
+Tools:
+Git/GitHub
+Jenkins 
+Docker/DockerHub
+Kubernetes
+Ansible
